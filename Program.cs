@@ -7,3 +7,4 @@ Console.WriteLine("Santos");
 Console.WriteLine("Guarujá");
 Console.WriteLine("Bertioga");
 
+Console.WriteLine ("\nConheça o litoral paulista!");
